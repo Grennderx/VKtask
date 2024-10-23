@@ -64,4 +64,4 @@ pip install pandas numpy seaborn matplotlib statsmodels scikit-learn catboost op
 - Обработка временных рядов может занять некоторое время в зависимости от объема данных.
 
 ## Контакты
-VK:
+VK: https://vk.com/b1stbeast
