@@ -62,6 +62,7 @@ pip install pandas numpy seaborn matplotlib statsmodels scikit-learn catboost op
 ## Примечания
 - Убедитесь, что ваши данные соответствуют ожиданиям этого скрипта.
 - Обработка временных рядов может занять некоторое время в зависимости от объема данных.
+- Script.ipynb - скрипт, генерирующий итоговый файл
 
 ## Контакты
 VK: https://vk.com/b1stbeast
