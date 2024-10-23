@@ -8,7 +8,7 @@ Binary classification of time series
 Перед запуском убедитесь, что у вас установлены необходимые библиотеки. Вы можете установить их с помощью pip:
 ```bash
 pip install pandas numpy seaborn matplotlib statsmodels scikit-learn catboost optuna
-
+```
 ## Структура кода
 
 1. Загрузка данных:
