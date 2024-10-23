@@ -62,7 +62,9 @@ pip install pandas numpy seaborn matplotlib statsmodels scikit-learn catboost op
 ## Примечания
 - Убедитесь, что ваши данные соответствуют ожиданиям этого скрипта.
 - Обработка временных рядов может занять некоторое время в зависимости от объема данных.
-- Script.ipynb - скрипт, генерирующий итоговый файл
+- Script.ipynb - скрипт, генерирующий итоговый файл.
+- VKtask.ipynb - основной код (анализ данных и обучение модели).
+- файлы train_features.csv и df_features_test.csv - файлы с заранее обработанными данными.
 
 ## Контакты
 VK: https://vk.com/b1stbeast
