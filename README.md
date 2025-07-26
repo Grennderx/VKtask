@@ -1,5 +1,4 @@
-# VKtask
-Binary classification of time series
+# Binary classification of time series
 # Time Series Analysis, Feature Extraction and Time Series Classification with CatBoost
 Этот проект предназначен для анализа временных рядов и извлечения признаков с использованием библиотек `pandas`, `numpy`, `statsmodels`, `matplotlib`, и `seaborn`. Данные загружаются из файла в формате Parquet и визуализируются для дальнейшего анализа. Этот проект показывает, как построить модель для классификации временных рядов, используя алгоритм `CatBoost`. Скрипт включает в себя все основные этапы: загрузку данных, предварительную обработку, обучение модели, оптимизацию гиперпараметров с помощью Optuna и создание файла для представления результатов.
 ## Описание
