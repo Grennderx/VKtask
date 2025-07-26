@@ -66,4 +66,5 @@ pip install pandas numpy seaborn matplotlib statsmodels scikit-learn catboost op
 - файлы train_features.csv и df_features_test.csv - файлы с заранее обработанными данными.
 
 ## Контакты
-VK: https://vk.com/b1stbeast
+VK: https://vk.com/grennderx
+TG: https://t.me/grennderx
